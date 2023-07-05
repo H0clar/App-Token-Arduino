@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivityCliente"
+    android:background="@color/green">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="32dp"
+                    android:layout_marginEnd="32dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/user_5"
+                    />
+                <TextView
+                    android:id="@+id/textnombrecliente"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hola, Amelia Vilches"
+                    android:layout_marginStart="32dp"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/imageView"
+
+                    />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <TextView
+                android:id="@+id/textViewsaldo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Total Saldo Disponible"
+                android:textColor="@color/white"
+                android:textSize="19dp"
+                android:textAlignment="center"
+                />
+
+            <TextView
+                android:id="@+id/textsaldodisponible"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$23.345.345"
+                android:textSize="37dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textColor="@color/white" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/linearLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="500dp"
+                    android:layout_marginTop="100dp"
+                    android:background="@drawable/white_backgraund"
+                    android:orientation="vertical"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="32dp"
+                        android:layout_marginTop="124dp"
+                        android:layout_marginEnd="32dp"
+                        android:orientation="horizontal">
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.25">
+
+                            <ImageButton
+                                android:id="@+id/viewTransferir"
+                                android:layout_width="64dp"
+                                android:layout_height="64dp"
+                                android:layout_marginBottom="8dp"
+                                android:background="@drawable/background_button_1"
+                                app:layout_constraintBottom_toTopOf="@+id/textView99"
+                                app:layout_constraintEnd_toEndOf="parent"
+                                app:layout_constraintStart_toStartOf="parent"
+                                app:layout_constraintTop_toTopOf="parent"
+                                tools:ignore="SpeakableTextPresentCheck" />
+
+                            <ImageView
+                                android:id="@+id/imageViewEnviar"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/send"
+                                app:layout_constraintBottom_toBottomOf="@+id/viewTransferir"
+                                app:layout_constraintEnd_toEndOf="@+id/viewTransferir"
+                                app:layout_constraintStart_toStartOf="@+id/viewTransferir"
+                                app:layout_constraintTop_toTopOf="parent" />
+
+                            <TextView
+                                android:id="@+id/textView99"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="8dp"
+                                android:text="Enviar"
+                                android:textColor="@color/green"
+                                android:textSize="14sp"
+                                android:textStyle="bold"
+                                app:layout_constraintEnd_toEndOf="@+id/viewTransferir"
+                                app:layout_constraintStart_toStartOf="@id/viewTransferir"
+                                app:layout_constraintTop_toBottomOf="@id/viewTransferir" />
+
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.25">
+
+                            <ImageButton
+                                android:id="@+id/view22"
+                                android:layout_width="64dp"
+                                android:layout_height="64dp"
+                                android:background="@drawable/background_button_2"
+                                app:layout_constraintEnd_toEndOf="parent"
+                                app:layout_constraintStart_toStartOf="parent"
+                                app:layout_constraintTop_toTopOf="parent"
+                                tools:ignore="SpeakableTextPresentCheck" />
+
+                            <ImageView
+                                android:id="@+id/imageViewRecibir"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/recieve"
+                                app:layout_constraintBottom_toBottomOf="@+id/view22"
+                                app:layout_constraintEnd_toEndOf="@+id/view22"
+                                app:layout_constraintStart_toStartOf="@+id/view22"
+                                app:layout_constraintTop_toTopOf="@+id/view22" />
+
+                            <TextView
+                                android:id="@+id/textView1010"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="8dp"
+                                android:text="Recibir"
+                                android:textColor="@color/green"
+                                android:textSize="14sp"
+                                android:textStyle="bold"
+                                app:layout_constraintEnd_toEndOf="@+id/view22"
+                                app:layout_constraintStart_toStartOf="@id/view22"
+                                app:layout_constraintTop_toBottomOf="@id/view22" />
+
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.25">
+
+                            <ImageButton
+                                android:id="@+id/view33"
+                                android:layout_width="64dp"
+                                android:layout_height="64dp"
+                                android:layout_marginBottom="8dp"
+                                android:background="@drawable/background_button_1"
+                                app:layout_constraintBottom_toTopOf="@+id/textView1111"
+                                app:layout_constraintEnd_toEndOf="parent"
+                                app:layout_constraintStart_toStartOf="parent"
+                                app:layout_constraintTop_toTopOf="parent"
+                                tools:ignore="SpeakableTextPresentCheck" />
+
+                            <ImageView
+                                android:id="@+id/imageViewPayPal"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/buy"
+                                app:layout_constraintBottom_toBottomOf="@+id/view33"
+                                app:layout_constraintEnd_toEndOf="@+id/view33"
+                                app:layout_constraintStart_toStartOf="@+id/view33"
+                                app:layout_constraintTop_toTopOf="parent" />
+
+                            <TextView
+                                android:id="@+id/textView1111"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="8dp"
+                                android:text="Pay Pal"
+                                android:textColor="@color/green"
+                                android:textSize="14sp"
+                                android:textStyle="bold"
+                                app:layout_constraintEnd_toEndOf="@+id/view33"
+                                app:layout_constraintStart_toStartOf="@id/view33"
+                                app:layout_constraintTop_toBottomOf="@id/view33" />
+
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.25">
+
+                            <ImageButton
+                                android:id="@+id/view44"
+                                android:layout_width="64dp"
+                                android:layout_height="64dp"
+                                android:layout_marginBottom="8dp"
+                                android:background="@drawable/background_button_2"
+                                app:layout_constraintBottom_toTopOf="@+id/textView1212"
+                                app:layout_constraintEnd_toEndOf="parent"
+                                app:layout_constraintStart_toStartOf="parent"
+                                app:layout_constraintTop_toTopOf="parent"
+                                tools:ignore="SpeakableTextPresentCheck" />
+
+                            <ImageView
+                                android:id="@+id/imageViewAdd"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:scrollbarTrackVertical="@drawable/add"
+                                android:src="@drawable/add"
+                                app:layout_constraintBottom_toBottomOf="@+id/view44"
+                                app:layout_constraintEnd_toEndOf="@+id/view44"
+                                app:layout_constraintStart_toStartOf="@+id/view44"
+                                app:layout_constraintTop_toTopOf="parent" />
+
+                            <TextView
+                                android:id="@+id/textView1212"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="8dp"
+                                android:text="Add"
+                                android:textColor="@color/green"
+                                android:textSize="14sp"
+                                android:textStyle="bold"
+                                app:layout_constraintEnd_toEndOf="@+id/view44"
+                                app:layout_constraintStart_toStartOf="@id/view44"
+                                app:layout_constraintTop_toBottomOf="@id/view44" />
+
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="16dp"
+                        android:orientation="horizontal">
+
+
+                        <TextView
+                            android:id="@+id/textView100"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Numero de Cuenta"
+                            android:textColor="@color/green"
+                            android:textSize="16dp"
+                            android:textStyle="bold"
+                            android:layout_marginStart="32dp"/>
+
+                        <TextView
+                            android:id="@+id/edittxtncuenta"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="."
+                            android:textColor="@color/green"
+                            android:textSize="16dp"
+                            android:textStyle="bold"
+                            android:layout_marginStart="32dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_marginStart="32dp"
+                    android:layout_marginEnd="32dp"
+                    android:background="@drawable/card_background"
+                    app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/linearLayout">
+
+                    <ImageView
+                        android:id="@+id/imageView22"
+                        android:layout_width="41dp"
+                        android:layout_height="30dp"
+                        android:layout_marginStart="32dp"
+                        android:layout_marginTop="32dp"
+                        android:src="@drawable/mastercard"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <ImageView
+                        android:id="@+id/imageView33"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="32dp"
+                        app:layout_constraintBottom_toBottomOf="@+id/imageView22"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="@id/imageView22"
+                        android:src="@drawable/sim"
+                        />
+                    <TextView
+                        android:id="@+id/textView44"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:text="4536 5435 5435 6565"
+                        android:textSize="28sp"
+                        android:layout_marginTop="16dp"
+                        app:layout_constraintEnd_toEndOf="@id/imageView33"
+                        app:layout_constraintStart_toStartOf="@id/imageView22"
+                        app:layout_constraintTop_toBottomOf="@id/imageView33"
+                        />
+                    <TextView
+                        android:id="@+id/textView55"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="nombre"
+                        android:layout_marginTop="16dp"
+                        android:textSize="12sp"
+                        android:textColor="#c4c4c4"
+                        app:layout_constraintStart_toStartOf="@id/textView44"
+                        app:layout_constraintTop_toBottomOf="@id/textView44" />
+
+                    <TextView
+                        android:id="@+id/textView66"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pablo Vilches Valenzuela"
+                        app:layout_constraintStart_toStartOf="@id/textView55"
+                        app:layout_constraintTop_toBottomOf="@id/textView55"
+                        android:textColor="@color/white"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/textView77"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="fecha Exp."
+                        android:textSize="12sp"
+                        android:textColor="#c4c4c4"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/textView66"
+                        app:layout_constraintTop_toTopOf="@id/textView55"/>
+
+                    <TextView
+                        android:id="@+id/textView88"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="12sp"
+                        android:text="12/2028"
+                        app:layout_constraintStart_toStartOf="@id/textView77"
+                        app:layout_constraintTop_toBottomOf="@id/textView77"
+                        />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

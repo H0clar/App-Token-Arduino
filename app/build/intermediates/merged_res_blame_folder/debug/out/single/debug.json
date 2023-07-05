@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_buy.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_top_background.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_user_3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\user_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_user_4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\user_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_add.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_sim.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_user_1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_bottom_white.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_user_1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_buy.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_top_background.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_user_5.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\user_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_background_button_1.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\background_button_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_mastercard.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_user_2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_social_btn_background.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\social_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_add.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_user_5.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\user_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_sim.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_girl.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_top_background.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_pizza.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_mastercard.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_pizza.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_user_1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_mastercard.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_user_2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_girl.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_send.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_recieve.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_recieve.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_send.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_sim.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_float_icon.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_user_3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\user_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_user_4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\user_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_send.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_send.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_recieve.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_girl.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_user_3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\user_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_send.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_mastercard.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_float_icon.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_user_4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\user_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_add.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_user_4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\user_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_float_icon.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\layout_activity_menu_cliente.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\layout\\activity_menu_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_buy.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_user_1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_user_4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\user_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_user_3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\user_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_pizza.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_add.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\layout_activity_transferencia.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\layout\\activity_transferencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_float_icon.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_recieve.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_buy.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_user_1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_add.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_mastercard.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_mastercard.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_sim.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_float_icon.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_pizza.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_user_2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_recieve.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_buy.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_user_5.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\user_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_user_2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_user_4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\user_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_float_icon.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_recieve.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_pizza.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_background_button_2.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\background_button_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_girl.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_girl.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_user_5.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\user_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_user_3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\user_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_buy.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_top_background.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_user_1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_pizza.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_add.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_girl.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxxhdpi_sim.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxxhdpi\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_user_5.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\user_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-ldpi_send.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-ldpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_blackbottondondo.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\blackbottondondo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_user_3.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\user_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xhdpi_user_2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_user_2.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\layout_activity_tocken.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\layout\\activity_tocken.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-mdpi_sim.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-mdpi\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_user_5.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\user_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\drawable_white_backgraund.xml.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\drawable\\white_backgraund.xml"
+    },
+    {
+        "merged": "com.example.cftsqllitefalabella.app-merged_res-32:/layout_activity_tocken.xml.flat",
+        "source": "com.example.cftsqllitefalabella.app-main-34:/layout/activity_tocken.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oso\\.gradle\\daemon\\8.0\\com.example.cftsqllitefalabella.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

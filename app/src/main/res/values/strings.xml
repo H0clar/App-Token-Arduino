@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">cftSQLLiteFalabella</string>
+
+    <!-- Tipos de cuenta -->
+    <string-array name="tipos_de_cuenta">
+        <item>Cuenta Corriente</item>
+        <item>Cuenta De Ahorros</item>
+        <item>Cuenta Vista</item>
+        <item>Cuenta RUT</item>
+        <item>Cuenta de Inversión</item>
+    </string-array>
+
+    <!-- Bancos -->
+    <string-array name="bancos">
+        <item>Banco Falabella</item>
+        <item>Banco de Chile</item>
+        <item>Banco Santander</item>
+        <item>Banco BCI</item>
+        <item>Banco Estado</item>
+        <item>Banco Itaú</item>
+        <item>Banco Scotiabank</item>
+        <item>Banco Security</item>
+        <item>Banco Consorcio</item>
+    </string-array>
+</resources>
